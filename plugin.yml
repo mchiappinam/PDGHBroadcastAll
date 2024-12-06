@@ -1,0 +1,9 @@
+name: PDGHBroadcastAll
+main: me.mchiappinam.pdghbroadcastall.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   stf:
+      description: Info.
+      usage: /<command>
